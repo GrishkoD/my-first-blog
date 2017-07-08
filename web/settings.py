@@ -25,7 +25,7 @@ SECRET_KEY = 'jio2w1n7ua0$&v6f+@m8y5#q!jumqs2&%jpi7p9e^k1)56*90j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [grishkod.pythonanywhere.com]
+ALLOWED_HOSTS = ['grishkod.pythonanywhere.com']
 
 
 # Application definition
